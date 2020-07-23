@@ -9,7 +9,7 @@ import inspect
         "self": False,
         "value": 59,
         "duration": 12,
-        "timeline": [81, 69, 50, 34, 17, 1]
+        "timeline": [82, 69, 52, 36, 19, 2]
     }
 }
 
@@ -41,7 +41,7 @@ import inspect
         "self": False,
         "value": 79,
         "duration": 12,
-        "timeline": [82, 70, 51, 35, 18, 2]
+        "timeline": [82, 69, 51, 35, 18, 1]
     }
 }
 
@@ -65,7 +65,7 @@ import inspect
         "self": False,
         "value": 20,
         "duration": 12,
-        "timeline": []
+        "timeline": [82, 69, 51, 35, 18, 1]
     }
 }
 
@@ -109,7 +109,7 @@ import inspect
         "self": False,
         "value": 15,
         "duration": 12,
-        "timeline": [82, 70, 51, 35, 18, 2]
+        "timeline": [78, 61, 45, 28, 11]
     }
 }
 
@@ -141,7 +141,7 @@ import inspect
         "self": False,
         "value": 119,
         "duration": 8,
-        "timeline": [80, 68, 50, 31, 14]
+        "timeline": [82, 68, 50, 34, 17]
     }
 }
 
@@ -177,7 +177,7 @@ import inspect
         "self": False,
         "value": 40,
         "duration": 12,
-        "timeline": [82, 70, 51, 35, 18, 2]
+        "timeline": [81, 67, 49, 31, 13]
     }
 }
 
