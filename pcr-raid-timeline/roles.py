@@ -6,7 +6,7 @@ import inspect
     "s2": {
         "name": "护甲破坏",
         "type": "debuff",
-        "self": False,
+        "private": False,
         "value": 59,
         "duration": 12,
         "timeline": [82, 69, 52, 36, 19, 2]
@@ -18,7 +18,7 @@ import inspect
     "ex": {
         "name": "演出开始",
         "type": "buff",
-        "self": False,
+        "private": False,
         "value": 446,
         "duration": 18,
         "timeline": []
@@ -30,7 +30,7 @@ import inspect
     "ex": {
         "name": "天狼噬斩",
         "type": "debuff",
-        "self": False,
+        "private": False,
         "value": 89,
         "duration": 18,
         "timeline": [62, 43, 22, 4]
@@ -38,7 +38,7 @@ import inspect
     "s2": {
         "name": "勇气呐喊",
         "type": "debuff",
-        "self": False,
+        "private": False,
         "value": 79,
         "duration": 12,
         "timeline": [82, 69, 51, 35, 18, 1]
@@ -50,7 +50,7 @@ import inspect
     "s2": {
         "name": "猫咪组合拳",
         "type": "buff",
-        "self": True,
+        "private": True,
         "value": 1089,
         "duration": 12,
         "timeline": []
@@ -62,7 +62,7 @@ import inspect
     "s2": {
         "name": "噗吉飓风击",
         "type": "debuff",
-        "self": False,
+        "private": False,
         "value": 20,
         "duration": 12,
         "timeline": [82, 69, 51, 35, 18, 1]
@@ -74,7 +74,7 @@ import inspect
     "s1": {
         "name": "痴迷执念",
         "type": "buff",
-        "self": True,
+        "private": True,
         "value": 743,
         "duration": 12,
         "timeline": []
@@ -86,7 +86,7 @@ import inspect
     "s2": {
         "name": "兔兔应援",
         "type": "buff",
-        "self": False,
+        "private": False,
         "value": 297,
         "duration": 12,
         "timeline": [82, 70, 52, 30, 14]
@@ -98,7 +98,7 @@ import inspect
     "ex": {
         "name": "亡灵恐惧",
         "type": "debuff",
-        "self": False,
+        "private": False,
         "value": 42,
         "duration": 18,
         "timeline": [82, 70, 51, 35, 18, 2]
@@ -106,7 +106,7 @@ import inspect
     "s2": {
         "name": "虚弱亡魂",
         "type": "debuff",
-        "self": False,
+        "private": False,
         "value": 15,
         "duration": 12,
         "timeline": [78, 61, 45, 28, 11]
@@ -118,7 +118,7 @@ import inspect
     "ex": {
         "name": "极光",
         "type": "buff",
-        "self": False,
+        "private": False,
         "value": 446,
         "duration": 18,
         "timeline": [47, 19]
@@ -126,7 +126,7 @@ import inspect
     "s2": {
         "name": "加速",
         "type": "buff",
-        "self": False,
+        "private": False,
         "value": 114,
         "duration": 12,
         "timeline": [82, 67, 51, 34, 20]
@@ -138,7 +138,7 @@ import inspect
     "s2": {
         "name": "蔷薇领域",
         "type": "debuff",
-        "self": False,
+        "private": False,
         "value": 119,
         "duration": 8,
         "timeline": [82, 68, 50, 34, 17]
@@ -150,7 +150,7 @@ import inspect
     "s2": {
         "name": "魅力全开",
         "type": "buff",
-        "self": True,
+        "private": True,
         "value": 1485,
         "duration": 12,
         "timeline": [80, 68, 50, 31, 14]
@@ -162,7 +162,7 @@ import inspect
     "ex": {
         "name": "旋风气流",
         "type": "debuff",
-        "self": False,
+        "private": False,
         "value": 42,
         "duration": 18,
         "timeline": [82, 70, 51, 35, 18, 2]
@@ -174,7 +174,7 @@ import inspect
     "s2": {
         "name": "护甲削弱",
         "type": "debuff",
-        "self": False,
+        "private": False,
         "value": 40,
         "duration": 12,
         "timeline": [81, 67, 49, 31, 13]
@@ -186,7 +186,7 @@ import inspect
     "s1": {
         "name": "激励之歌",
         "type": "buff",
-        "self": False,
+        "private": False,
         "value": 792,
         "duration": 12,
         "timeline": []
